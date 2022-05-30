@@ -170,8 +170,8 @@ form > label {
   }
 }
 button {
-	background: rgb(210, 187, 60);
-	color: #fff !important;
+	background: #255784;
+	color: rgb(0, 0, 0);
 	font-size: 18px;
 	padding: 0.5rem 3rem;
 	outline: none;
@@ -227,4 +227,18 @@ animation: animate 5s linear infinite;
     0 0 180px #03bcf4,
     0 0 160px #03bcf4;
   }
+}
+.detail{
+  text-align: center;
+  color: rgb(224, 214, 202);
+  height: 700px;
+  padding: 100px;
+  width:900px;
+  margin-left: 300px;
+}
+.test{color: aqua;
+width: 500px;
+text-align: center;
+margin: 100px;
+margin-top: -2px;
 }
